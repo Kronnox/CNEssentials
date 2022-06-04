@@ -1,0 +1,4 @@
+author: Kronox
+name: CNEssentials
+main: de.cubenation.cnessentials.CNEssentialsPlugin
+version: "${project.version}"
